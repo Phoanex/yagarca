@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Ana Safya
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Burası sadece bir başlangıç sayfası. Daha yeni açıldığı için pek de bir şey bulamayacaksın.
